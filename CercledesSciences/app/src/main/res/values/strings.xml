@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cercle des Sciences</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Cercle des Sciences</string>
+    <string name="nav_header_subtitle">cercledessciences@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="ffsb">FFSB</string>
+    <string name="jobday">Job-Day</string>
+    <string name="courrir">10km</string>
+    <string name="promothee">Promethee</string>
+</resources>
